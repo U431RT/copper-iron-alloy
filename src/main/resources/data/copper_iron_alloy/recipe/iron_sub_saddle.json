@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "copper_iron_alloy:steel_gold_ingot",
+    "X": "minecraft:leather"
+  },
+  "pattern": [
+    " X ",
+    "X#X"
+  ],
+  "result": {
+    "id": "minecraft:saddle"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "copper_iron_alloy:config_enabled",
+      "option": "steel_gold_as_iron"
+    }
+  ]
+}

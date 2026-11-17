@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "copper_iron_alloy:item/iron_copper_alloy_pickaxe"
+  }
+}

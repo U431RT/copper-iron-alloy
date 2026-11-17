@@ -1,0 +1,24 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "MIT"
+
+[[mods]]
+modId = "copper_iron_alloy"
+version = "1.0.0"
+displayName = "铜铁合金 / Copper-Iron Alloy"
+authors = "dsh"
+description = '''根本没有这种合金！粗铜和粗铁磨成粉混在一起烧一烧，你就得到了一种根本不存在的金属。钢金则是另一种更离谱的东西。'''
+
+[[dependencies.copper_iron_alloy]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.1.0.1-beta,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.copper_iron_alloy]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.1, 26.2)"
+ordering = "NONE"
+side = "BOTH"

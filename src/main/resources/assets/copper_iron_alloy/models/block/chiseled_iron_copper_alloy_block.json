@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "copper_iron_alloy:block/chiseled_iron_copper_alloy_block"
+  }
+}

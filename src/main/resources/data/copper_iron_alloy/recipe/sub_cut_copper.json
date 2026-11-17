@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "copper_iron_alloy:iron_copper_alloy_block",
+  "result": {
+    "count": 4,
+    "id": "minecraft:cut_copper"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "copper_iron_alloy:config_enabled",
+      "option": "alloy_as_copper"
+    }
+  ]
+}

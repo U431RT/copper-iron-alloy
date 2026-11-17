@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "copper_iron_alloy:item/raw_steel_gold_mixture"
+  }
+}

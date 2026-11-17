@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "#": "minecraft:charcoal",
+    "I": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "G#G",
+    "#I#",
+    "G#G"
+  ],
+  "result": {
+    "id": "copper_iron_alloy:raw_steel_gold_mixture",
+    "count": 3
+  }
+}

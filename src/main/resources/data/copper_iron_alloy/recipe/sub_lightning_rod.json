@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": "copper_iron_alloy:iron_copper_alloy_ingot"
+  },
+  "pattern": [
+    "#",
+    "#",
+    "#"
+  ],
+  "result": {
+    "id": "minecraft:lightning_rod"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "copper_iron_alloy:config_enabled",
+      "option": "alloy_as_copper"
+    }
+  ]
+}

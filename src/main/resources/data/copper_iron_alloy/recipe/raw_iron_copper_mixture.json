@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:raw_copper",
+    "minecraft:raw_copper",
+    "minecraft:raw_copper",
+    "minecraft:raw_iron"
+  ],
+  "result": {
+    "id": "copper_iron_alloy:raw_iron_copper_mixture",
+    "count": 4
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "copper_iron_alloy:steel_gold_ingot",
+    "minecraft:flint"
+  ],
+  "result": {
+    "id": "copper_iron_alloy:steel_gold_flint_and_steel"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": "copper_iron_alloy:steel_gold_block",
+    "D": "copper_iron_alloy:white_diamond"
+  },
+  "pattern": [
+    " B ",
+    "BDB",
+    " B "
+  ],
+  "result": {
+    "id": "copper_iron_alloy:steel_gold_lamp",
+    "count": 8
+  }
+}

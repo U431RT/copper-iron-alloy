@@ -1,0 +1,17 @@
+{
+  "values": [
+    "copper_iron_alloy:iron_copper_alloy_block",
+    "copper_iron_alloy:cut_iron_copper_alloy_block",
+    "copper_iron_alloy:cut_iron_copper_alloy_stairs",
+    "copper_iron_alloy:cut_iron_copper_alloy_slab",
+    "copper_iron_alloy:chiseled_iron_copper_alloy_block",
+    "copper_iron_alloy:iron_copper_alloy_grate",
+    "copper_iron_alloy:iron_copper_alloy_bulb",
+    "copper_iron_alloy:iron_copper_alloy_door",
+    "copper_iron_alloy:iron_copper_alloy_trapdoor",
+    "copper_iron_alloy:steel_gold_block",
+    "copper_iron_alloy:steel_gold_anvil",
+    "copper_iron_alloy:steel_gold_door",
+    "copper_iron_alloy:white_diamond_block"
+  ]
+}

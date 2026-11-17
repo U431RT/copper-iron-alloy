@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "copper_iron_alloy:block/steel_gold_anvil",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "copper_iron_alloy:block/steel_gold_anvil",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "copper_iron_alloy:block/steel_gold_anvil"
+    },
+    "facing=west": {
+      "model": "copper_iron_alloy:block/steel_gold_anvil",
+      "y": 90
+    }
+  }
+}

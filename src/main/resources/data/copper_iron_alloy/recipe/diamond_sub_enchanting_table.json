@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:obsidian",
+    "B": "minecraft:book",
+    "D": "copper_iron_alloy:white_diamond"
+  },
+  "pattern": [
+    " B ",
+    "D#D",
+    "###"
+  ],
+  "result": {
+    "id": "minecraft:enchanting_table"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "copper_iron_alloy:config_enabled",
+      "option": "white_diamond_as_diamond"
+    }
+  ]
+}

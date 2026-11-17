@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "white_diamond",
+  "ingredient": "copper_iron_alloy:charged_gem",
+  "result": {
+    "id": "copper_iron_alloy:white_diamond"
+  }
+}

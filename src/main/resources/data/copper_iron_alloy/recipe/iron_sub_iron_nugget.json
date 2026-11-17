@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "copper_iron_alloy:steel_gold_ingot"
+  ],
+  "result": {
+    "count": 9,
+    "id": "minecraft:iron_nugget"
+  },
+  "neoforge:conditions": [
+    {
+      "type": "copper_iron_alloy:config_enabled",
+      "option": "steel_gold_as_iron"
+    }
+  ]
+}

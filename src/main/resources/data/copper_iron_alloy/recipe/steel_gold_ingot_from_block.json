@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "copper_iron_alloy:steel_gold_block"
+  ],
+  "result": {
+    "id": "copper_iron_alloy:steel_gold_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "copper_iron_alloy:cut_iron_copper_alloy_block",
+  "result": {
+    "id": "copper_iron_alloy:chiseled_iron_copper_alloy_block"
+  }
+}

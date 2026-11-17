@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "iron_copper_alloy_ingot",
+  "ingredient": "copper_iron_alloy:raw_iron_copper_mixture",
+  "result": {
+    "id": "copper_iron_alloy:iron_copper_alloy_ingot"
+  }
+}

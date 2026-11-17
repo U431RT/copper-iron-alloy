@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "#copper_iron_alloy:iron_copper_alloy_tool_materials"
+  },
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "result": {
+    "id": "copper_iron_alloy:iron_copper_alloy_hoe"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_torch",
+  "textures": {
+    "torch": "copper_iron_alloy:block/white_torch"
+  }
+}

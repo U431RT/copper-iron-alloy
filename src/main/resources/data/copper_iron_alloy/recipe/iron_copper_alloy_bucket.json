@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "copper_iron_alloy:iron_copper_alloy_ingot"
+  },
+  "pattern": [
+    "# #",
+    " # "
+  ],
+  "result": {
+    "id": "copper_iron_alloy:iron_copper_alloy_bucket"
+  }
+}

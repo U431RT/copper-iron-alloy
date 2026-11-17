@@ -1,0 +1,35 @@
+{
+  "parent": "copper_iron_alloy:no_such_alloy",
+  "display": {
+    "icon": {
+      "id": "copper_iron_alloy:iron_copper_alloy_ingot"
+    },
+    "title": {
+      "translate": "advancements.copper_iron_alloy.youre_just_scared.title"
+    },
+    "description": {
+      "translate": "advancements.copper_iron_alloy.youre_just_scared.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "got": {
+      "conditions": {
+        "items": [
+          {
+            "items": "copper_iron_alloy:iron_copper_alloy_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "got"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

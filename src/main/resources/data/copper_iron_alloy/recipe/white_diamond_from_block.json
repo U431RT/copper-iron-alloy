@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "copper_iron_alloy:white_diamond_block"
+  ],
+  "result": {
+    "id": "copper_iron_alloy:white_diamond",
+    "count": 9
+  }
+}

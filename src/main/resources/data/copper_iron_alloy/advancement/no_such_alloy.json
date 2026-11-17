@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "id": "copper_iron_alloy:raw_iron_copper_mixture"
+    },
+    "title": {
+      "translate": "advancements.copper_iron_alloy.no_such_alloy.title"
+    },
+    "description": {
+      "translate": "advancements.copper_iron_alloy.no_such_alloy.description"
+    },
+    "background": "minecraft:textures/block/copper_block.png",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "mixture": {
+      "conditions": {
+        "items": [
+          {
+            "items": "copper_iron_alloy:raw_iron_copper_mixture"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "mixture"
+    ]
+  ],
+  "sends_telemetry_event": false
+}

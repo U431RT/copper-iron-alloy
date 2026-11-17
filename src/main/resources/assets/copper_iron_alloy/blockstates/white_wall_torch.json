@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "copper_iron_alloy:block/white_wall_torch"
+    },
+    "facing=north": {
+      "model": "copper_iron_alloy:block/white_wall_torch",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "copper_iron_alloy:block/white_wall_torch",
+      "y": 90
+    },
+    "facing=west": {
+      "model": "copper_iron_alloy:block/white_wall_torch",
+      "y": 180
+    }
+  }
+}

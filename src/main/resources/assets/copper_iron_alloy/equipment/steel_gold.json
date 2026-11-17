@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "copper_iron_alloy:steel_gold"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "copper_iron_alloy:steel_gold"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "copper_iron_alloy:steel_gold"
+      }
+    ]
+  }
+}

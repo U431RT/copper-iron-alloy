@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_bars_post",
+  "textures": {
+    "bars": "copper_iron_alloy:block/iron_copper_alloy_bars",
+    "edge": "copper_iron_alloy:block/iron_copper_alloy_bars"
+  }
+}

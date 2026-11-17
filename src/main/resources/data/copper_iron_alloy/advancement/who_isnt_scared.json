@@ -1,0 +1,59 @@
+{
+  "parent": "copper_iron_alloy:no_such_alloy",
+  "display": {
+    "icon": {
+      "id": "copper_iron_alloy:iron_copper_alloy_sword"
+    },
+    "title": {
+      "translate": "advancements.copper_iron_alloy.who_isnt_scared.title"
+    },
+    "description": {
+      "translate": "advancements.copper_iron_alloy.who_isnt_scared.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "gear": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "copper_iron_alloy:iron_copper_alloy_sword"
+          },
+          {
+            "items": "copper_iron_alloy:iron_copper_alloy_pickaxe"
+          },
+          {
+            "items": "copper_iron_alloy:iron_copper_alloy_axe"
+          },
+          {
+            "items": "copper_iron_alloy:iron_copper_alloy_shovel"
+          },
+          {
+            "items": "copper_iron_alloy:iron_copper_alloy_hoe"
+          },
+          {
+            "items": "copper_iron_alloy:iron_copper_alloy_helmet"
+          },
+          {
+            "items": "copper_iron_alloy:iron_copper_alloy_chestplate"
+          },
+          {
+            "items": "copper_iron_alloy:iron_copper_alloy_leggings"
+          },
+          {
+            "items": "copper_iron_alloy:iron_copper_alloy_boots"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "gear"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
